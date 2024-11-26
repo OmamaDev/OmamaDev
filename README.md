@@ -1,19 +1,18 @@
 ## Hi there 👋
 
-<!--
-**OmamaDev/OmamaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **WordPress Theme Development**
+- 🌱 I’m currently preparing **AWS Solution Architect Associate exam**
+- 👯 I’m looking to collaborate on **Front projects**
+- 🤔 I’m looking for help with **Web Designer**
+- 💬 Ask me about **Technology and Personnal Developement**
+- 📫 How to reach me:**omama.bouanou@gmail.com**
+- 😄 Pronouns:**She/Her**
+- ⚡ Fun fact:**healthy habits**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/oumama-bouanou-8b78092a6) 
