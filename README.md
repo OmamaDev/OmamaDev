@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Front projects**
 - 🤔 I’m looking for help with **Web Designer**
 - 💬 Ask me about **Technology and Personnal Developement**
-- 📫 How to reach me:**omama.bouanou@gmail.com**
-- 😄 Pronouns:**She/Her**
-- ⚡ Fun fact:**healthy habits**
+- 📫 How to reach me: **omama.bouanou@gmail.com**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: **healthy habits**
 
 
 ## 🌐 Socials:
