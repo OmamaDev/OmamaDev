@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Technology and Personnal Developement**
 - 📫 How to reach me: **omama.bouanou@gmail.com**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **healthy habits**
+- ⚡ Fun fact: **Healthy habits**
 
 
 ## 🌐 Socials:
