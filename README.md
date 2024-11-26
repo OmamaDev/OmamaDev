@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **WordPress Theme Development**
 - 🌱 I’m currently preparing **AWS Solution Architect Associate exam**
-- 👯 I’m looking to collaborate on **Front projects**
+- 👯 I’m looking to collaborate on **Front-End projects**
 - 🤔 I’m looking for help with **Web Designer**
 - 💬 Ask me about **Technology and Personnal Developement**
 - 📫 How to reach me: **omama.bouanou@gmail.com**
